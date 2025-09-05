@@ -1,0 +1,1 @@
+﻿print('Hackathon practice started 🚀')
